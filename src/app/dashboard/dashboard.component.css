@@ -1,0 +1,13 @@
+.gridView {
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  grid-gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.gridView > h4{
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 15px 0;
+  font-size: 30px;
+}
